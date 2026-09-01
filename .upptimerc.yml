@@ -16,7 +16,7 @@ status-website:
   cname: status.ohbm-environment.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ohbmenvironment/upptime/main/assets/logo.png
-  name: SEA-SIG Upptime
+  name: SEA-SIG Status
   introTitle: "SEA-SIG uptime monitor and status page"
   introMessage: This status page is generated from [this GitHub repository](https://github.com/ohbmenvironment/upptime).
   navbar:
@@ -24,6 +24,16 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+secrets:
+  - NOTIFICATION_EMAIL
+  - NOTIFICATION_EMAIL_FROM
+  - NOTIFICATION_EMAIL_TO
+  - NOTIFICATION_EMAIL_SMTP
+  - NOTIFICATION_EMAIL_SMTP_PORT
+  - NOTIFICATION_EMAIL_SMTP_HOST
+  - NOTIFICATION_EMAIL_SMTP_USERNAME
+  - NOTIFICATION_EMAIL_SMTP_PASSWORD
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
