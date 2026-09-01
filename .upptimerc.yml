@@ -15,10 +15,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ohbm-environment.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/ohbmenvironment/upptime/main/assets/logo.png
   name: SEA-SIG Upptime
-  introTitle: "SEA-SIG uptime monitor and status page."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/ohbmenvironment/upptime).
+  introTitle: "SEA-SIG uptime monitor and status page"
+  introMessage: This status page is generated from [this GitHub repository](https://github.com/ohbmenvironment/upptime).
   navbar:
     - title: Status
       href: /
