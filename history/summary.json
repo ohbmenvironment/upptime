@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.ohbm-environment.org.ico",
     "slug": "mattermost",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 324,
-    "timeDay": 270,
-    "timeWeek": 257,
-    "timeMonth": 315,
-    "timeYear": 324,
+    "uptimeYear": "99.64%",
+    "time": 323,
+    "timeDay": 215,
+    "timeWeek": 248,
+    "timeMonth": 312,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2026-09-01": 410
     }
