@@ -4,19 +4,20 @@
     "url": "https://mattermost.ohbm-environment.org",
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.ohbm-environment.org.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 322,
-    "timeDay": 227,
-    "timeWeek": 243,
-    "timeMonth": 305,
-    "timeYear": 322,
+    "time": 320,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 299,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2026-09-01": 410
+      "2026-09-01": 410,
+      "2026-11-20": 0
     }
   }
 ]
